@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "keys": {
+    "index.html": {
+      "original": "index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "page-2/index.html": {
+      "original": "page-2/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    }
+  }
+}

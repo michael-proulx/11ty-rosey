@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "keys": {
+    "title": {
+      "original": "Testing title",
+      "value": null,
+      "pages": {
+        "index.html": 2,
+        "page-2/index.html": 2
+      },
+      "total": 4
+    }
+  }
+}
